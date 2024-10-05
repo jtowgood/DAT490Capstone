@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: iowa_alcohol_sales
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jade
+    family-names: Towgood
+    email: jetowgood@gmail.com
+  - given-names: Jasmine
+    family-names: Gomez
+    email: jasminegomez24@gmail.com
+  - given-names: Anthony
+    family-names: Rosamond
+    email: abrosamond@comcast.com
+  - given-names: Madison
+    family-names: Brown
+    email: madisonbrown202@gmail.com
+repository-code: >-
+  https://github.com/jtowgood/DAT490Capstone/blob/main/EDA_%26_Methodology.ipynb
+url: 'https://github.com/jtowgood/DAT490Capstone'
+repository: >-
+  https://github.com/jtowgood/DAT490Capstone/blob/main/Supervised_Learning.ipynb
+repository-artifact: >-
+  https://github.com/jtowgood/DAT490Capstone/blob/main/Unsupervised_Learning.ipynb
+abstract: >-
+  This is an analysis on Iowa's alcohol sales trends and
+  factors that may or may not contribute to them.
